@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring_Boot_Study.iml" filepath="$PROJECT_DIR$/.idea/Spring_Boot_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-actuator/spring-boot-actuator.iml" filepath="$PROJECT_DIR$/spring-boot-actuator/spring-boot-actuator.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-druid/spring-boot-druid.iml" filepath="$PROJECT_DIR$/spring-boot-druid/spring-boot-druid.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-jdbc/spring-boot-jdbc.iml" filepath="$PROJECT_DIR$/spring-boot-jdbc/spring-boot-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" filepath="$PROJECT_DIR$/spring-boot-redis/spring-boot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-swagger/spring-boot-swagger.iml" filepath="$PROJECT_DIR$/spring-boot-swagger/spring-boot-swagger.iml" />
     </modules>
   </component>
 </project>
